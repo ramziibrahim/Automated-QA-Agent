@@ -1,4 +1,4 @@
-# Laneo-Project
+# Automated QA Agent
 Automated QA agent utilizing browser-use and FastAPI.
 
 
